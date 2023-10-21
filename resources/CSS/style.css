@@ -11,3 +11,8 @@ h1 {
     text-align: center;
     font-weight: 400;
 }
+
+.link {
+    color: aquamarine;
+    font-size: 16px;
+}
